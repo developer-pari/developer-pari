@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developer-pari
 - i just lov 2 code
-- 😄 Pronouns: He
+- 😄 Pronoun: He
 - ⚡ Fun fact: Why was the JavaScript developer sad?....Because he didn't know how to `null` his feelings!
 
 <!---
